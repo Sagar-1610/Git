@@ -1,7 +1,7 @@
 function feature(){
-    
+
 }
 
-function feature2(){
+function feature1(){
     
 }
